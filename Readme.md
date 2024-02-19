@@ -30,7 +30,7 @@ To contribute, please fork the repository, make your changes, and submit a pull 
 ## Usage
 
 To use these notebooks:
-1. Clone the repository: `git clone https://github.com/yourusername/your-repository-name.git`
+1. Clone the repository: `git clone https://github.com/SunilRudraKumar/LearnDataScience.git`
 2. Navigate to the desired notebook and open it using Jupyter Notebook or JupyterLab.
 
 
@@ -41,3 +41,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Acknowledgements
 
 We are grateful to all contributors who have helped in creating and maintaining this repository. Your efforts are immensely appreciated by the data science community!
+s
